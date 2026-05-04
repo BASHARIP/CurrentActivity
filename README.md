@@ -8,12 +8,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/VERSION-0.0_STABLE-00FFCC?style=for-the-badge&logo=android&logoColor=black" />
-  <img src="https://img.shields.io/badge/PLATFORM-TERMUX_/_ANDROID-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DEVELOPER-MOD_BASHA-white?style=for-the-badge" />
-</div>
-
 ---
 
 ### &#x1f50d; &#x44;&#x65;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x69;&#x6f;&#x6e;
@@ -27,7 +21,7 @@
 
 <div align="center">
   <a href="https://github.com/BASHARIP/CurrentActivity/releases/download/0.0/Current.Activity.apk">
-    <img src="https://img.shields.io/badge/DOWNLOAD-CURRENT_ACTIVITY_APK-00FFCC?style=for-the-badge&logo=google-play&logoColor=black" />
+    <img src="https://img.shields.io/badge/DOWNLOAD-CURRENT_ACTIVITY_APK-0056b3?style=for-the-badge&logo=google-play&logoColor=white" />
   </a>
 </div>
 
