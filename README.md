@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=800&color=FF0000&center=true&vCenter=true&width=1000&height=120&lines=%E2%9C%A7+CURRENT+ACTIVITY+TRACKER;INTERFACE+DETECTION+ENGINE;BY+MOD+BASHA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&pause=800&color=FF0000&center=true&vCenter=true&width=1000&height=120&lines=%E2%9C%A7+CURRENT+ACTIVITY+TRACKER;%E2%97%88+INTERFACE+DETECTION+ENGINE;%E1%92%BA+DEVELOPED+BY+MOD+BASHA" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -51,6 +51,5 @@
 ---
 
 <p align="center">
-  <b>&#x00a9; &#x32;&#x30;&#x32;&#x36;&#x20;&#x4d;&#x4f;&#x44;&#x20;&#x42;&#x41;&#x53;&#x48;&#x41;</b><br>
-  <i>&#x41;&#x6c;&#x6c;&#x20;&#x52;&#x69;&#x67;&#x68;&#x74;&#x73;&#x20;&#x52;&#x65;&#x73;&#x65;&#x72;&#x76;&#x65;&#x64;&#x20;&#x74;&#x6f;&#x20;&#x53;&#x65;&#x63;&#x75;&#x72;&#x69;&#x74;&#x79;&#x20;&#x54;&#x65;&#x61;&#x6d;&#x20;&#x52;&#x49;&#x50;</i>
+  <b>&#x00a9; &#x32;&#x30;&#x32;&#x36;&#x20;&#x4d;&#x4f;&#x44;&#x20;&#x42;&#x41;&#x53;&#x48;&#x41;</b>
 </p>
