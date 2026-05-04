@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&pause=800&color=FF0000&center=true&vCenter=true&width=1000&height=120&lines=%E2%9C%A7+CURRENT+ACTIVITY+TRACKER;%E2%97%88+INTERFACE+DETECTION+ENGINE;%E1%92%BA+DEVELOPED+BY+MOD+BASHA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&pause=800&color=FF0000&center=true&vCenter=true&width=1000&height=120&lines=%E2%9C%A7+CURRENT+ACTIVITY+TRACKER;%E2%97%88+INTERFACE+DETECTION+ENGINE;%E1%92%BA+BY+MOD+BASHA" alt="Typing SVG" />
 </div>
 
 <div align="center">
